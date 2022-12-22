@@ -1,0 +1,6 @@
+# assignment1
+
+x=25
+y="25"
+z=25.0
+print(str(x+int(y)+z))
